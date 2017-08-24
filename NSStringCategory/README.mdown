@@ -1,0 +1,4 @@
+- NSString+DictAndJson：字符串(Json) 转 字典、字典 转 字符串(Json)
+- NSString+PinYin：字符串转为**拼音形式**
+- 
+
