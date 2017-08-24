@@ -1,3 +1,4 @@
+- NSStringCategory：**字符串处理**的类别
 - SystemTransitionsPackage：系统**转场**动画封装
 - ViewColorGradualChange：UIView的颜色渐变
 
